@@ -35,8 +35,9 @@ Feature: This feature includes scenarios to test T-shirt ordering and order veri
 
     Examples:
 
-      | email                     | password     |
+      | email                     | password    |
       | sshinde@scottishpower.com | Password123 |
+      | SeleniumTesting@gmail.com | Selenium123 |
 
 
 

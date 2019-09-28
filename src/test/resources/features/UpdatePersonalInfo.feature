@@ -19,5 +19,6 @@ Feature: This feature includes scenarios to update personal information.
 
     Examples:
 
-      | email                     | password     |updated name|
-      | sshinde@scottishpower.com | Password123 |sachintest  |
+      | email                     | password    | updated name |
+      | sshinde@scottishpower.com | Password123 | sachintest   |
+      | SeleniumTesting@gmail.com | Selenium123 | mytest       |
